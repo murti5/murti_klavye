@@ -1,9 +1,10 @@
 # murti_klavye
-androidde kullanılan klavyedir.
+Androidde kullanılan klavyedir.
 
+Java programlama diliyle yazılmıştır.
 
-kaynak kodlar murti_klavye.rar içerisindedir
+Kaynak kodlar murti_klavye.rar içerisindedir
 
-apk dosyasını indirebilir kullanabilirsiniz
+Apk dosyasını indirebilir kullanabilirsiniz
 
 ![Klavye](/photo.jpg)
